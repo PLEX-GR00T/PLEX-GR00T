@@ -9,18 +9,15 @@
 
 <br />
 
-Hi, i'm Priyank Thakkar, I am very enthusiastic about the Robotics, Artificial Intelligence, IOT and Image Processing. So far I am just a kid who tried different project in every different direction. And finally I got to know that my Interest of area is to work on Autonomous Car Driving systems. Moreover, dreaming that the future of the transpotation till 2050 si fully Autonomous. Right now trying to working on my dream to come true.
+I'm Priyank Thakkar, and I'm a big fan of robotics, artificial intelligence, the internet of things, and image processing. I'm still a young person who has experimented with several initiatives in each of the aforementioned directions.Finally, I discovered that working on autonomous car driving systems is what I'm interested in. Moreover, dreaming that the future of transportation till 2030 will be fully Autonomous. I'm currently making efforts to make my dream come reality. 
 
-Right now, I am studying for my Graduate degree in UNITED STATE OF AMERICA, at SAN JOSE STATE UNIVERSITY. With the Graduation field of Aritficial Intelligence, expected passout to 2023. I am dreaming my self to work on autonomous Robots, and Autonomous Cars systems.
+I am studying for my graduate degree in the Unite State of America, at San Jose State University. My major is Aritificial Intelligence, I am expecting graduation in May 2023. I am dreaming my self to work on autonomous robots and autonomous cars systems.
 
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=PLEX-GR00T&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img align="Left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - 💼 If you want to reach me out, here is my [email](pthakkar16298@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
-
-
+- 💬 ask me about anything, i am happy to help ;)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=PLEX-GR00T&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" width="500" />
 <!--
 **PLEX-GR00T/PLEX-GR00T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
