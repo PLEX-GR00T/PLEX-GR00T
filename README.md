@@ -9,7 +9,7 @@
 
 <br />
 
-I'm Priyank Thakkar, and I'm a big fan of robotics, artificial intelligence, the internet of things, and image processing. I'm still a young person who has experimented with several initiatives in each of the aforementioned directions.Finally, I discovered that working on autonomous car driving systems is what I'm interested in. Moreover, dreaming that the future of transportation till 2030 will be fully Autonomous. I'm currently making efforts to make my dream come reality. 
+I'm Priyank Thakkar, and I'm a big fan of robotics, artificial intelligence, the internet of things, and image processing. I'm still a young person who has experimented with several initiatives in each of the aforementioned directions. Finally, I discovered that working on autonomous car driving systems is what I'm interested in. Moreover, dreaming that the future of transportation till 2030 will be fully Autonomous. I'm currently making efforts to make my dream come reality. 
 
 I am studying for my graduate degree in the Unite State of America, at San Jose State University. My major is Aritificial Intelligence, I am expecting graduation in May 2023. I am dreaming my self to work on autonomous robots and autonomous cars systems.
 
