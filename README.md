@@ -1,11 +1,6 @@
 # Priyank Thakkar
 
 ### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.linkedin.com/in/priyank-thakkar/">
-  <img align="left" alt="Priyank's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=PLEX-GR00T.PLEX-GR00T)
 
 <br />
 
@@ -15,8 +10,8 @@ I am studying for my graduate degree in the Unite State of America, at San Jose 
 
 <img align="Left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 💼 If you want to reach me out, here is my [email](pthakkar16298@gmail.com) :)
-- 💬 ask me about anything, i am happy to help ;)
+- 💼 If you want to reach me, here is my [email](pthakkar16298@gmail.com) and [LinkedIn](https://www.linkedin.com/in/priyank-thakkar/) :)
+- 💬 ask me about anything, I am happy to help ;)
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=PLEX-GR00T&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" width="500" />
 <!--
 **PLEX-GR00T/PLEX-GR00T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
