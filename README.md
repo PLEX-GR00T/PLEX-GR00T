@@ -14,7 +14,8 @@ I completed my graduate degree in the Unite State of America, at San Jose State 
 
 - 💼 If you want to reach me, here is my [email](priyank.thakkar.usa@gmail.com) and [LinkedIn](https://www.linkedin.com/in/priyank-thakkar/) :)
 - 💬 Ask me about anything, I am happy to help ;)
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=PLEX-GR00T&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" width="500" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=PLEX-GR00T&theme=default&show_icons=true&hide_border=false&count_private=true" width="500" />
 <!--
 **PLEX-GR00T/PLEX-GR00T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
