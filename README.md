@@ -7,6 +7,8 @@
 I'm Priyank Thakkar, and I'm a big fan of robotics, artificial intelligence, the internet of things, and image processing. I'm still a young person who has experimented with several initiatives in each of the aforementioned directions. I am also a Machine Learning Engineer with 3+ years of experience in Computer Vision, Machine Learning, Natural Language understanding with LLM, and Artificial Intelligence. Some career highlights include:
 - Developed a comprehensive NLP system for virtual home assistants increasing product efficiency by 30%.
 - Introduced and prototyped innovative AI features of intrusion detection improving customer experience by 40%.
+- Developed customized neural networks of images and text for large datasets to solve specific problems.
+- Expert in building and deploying machine learning models using Python, TensorFlow, and PyTorch.
 
 I completed my graduate degree in the Unite State of America, at San Jose State University. My major is Artificial Intelligence.
 
